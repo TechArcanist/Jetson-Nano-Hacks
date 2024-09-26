@@ -34,7 +34,7 @@ I welcome contributions from the community! If you have suggestions, feature req
 ## Developed by
 
 **Lavitra Sahu**  
-As I continue to learn and grow with Jetson Nano, feel free to reach out to me for questions or collaboration through [LinkedIn](www.linkedin.com/in/tech-arcanist).
+As I continue to learn and grow with Jetson Nano, feel free to reach out to me for questions or collaboration through [LinkedIn](https://www.linkedin.com/in/tech-arcanist/).
 
 ---
 
