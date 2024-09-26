@@ -11,7 +11,7 @@ As I explore the exciting world of Jetson Nano, I will be documenting and upload
 ## Featured Hacks
 
 ### 1. Setup for yolov5  🛠️
--
+- [Github](https://github.com/TechArcanist/Jetson-Nano-Yolo-v5)
 
 ### 1. Opening Camera with Python 📷
 -
