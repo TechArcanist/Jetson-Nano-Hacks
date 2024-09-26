@@ -20,3 +20,6 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 >  Press 'q' to exit
+
+https://github.com/user-attachments/assets/1d4dd56d-5e29-4c6d-87d0-f7a0b262e94e
+
