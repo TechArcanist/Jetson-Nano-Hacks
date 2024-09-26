@@ -15,7 +15,7 @@ As I explore the exciting world of Jetson Nano, I will be documenting and upload
 ### 2. Jupyter Installation 
 - [Github](https://github.com/TechArcanist/Jetson-Nano-Hacks/blob/main/JupyterLab%20Installation/Instructions.md)
 ### 3. Opening Camera with Python 
--
+- [Github](https://github.com/TechArcanist/Jetson-Nano-Hacks/blob/main/Opening%20Camera%20with%20Python/Camera.md)
 
 ## Getting Started
 
