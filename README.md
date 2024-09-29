@@ -18,6 +18,8 @@ As I explore the exciting world of Jetson Nano, I will be documenting and upload
 - [Github](https://github.com/TechArcanist/Jetson-Nano-Hacks/blob/main/Opening%20Camera%20with%20Python/Camera.md)
 ### 4. Opening Camera on same Jupyter Lab Interface Notebook
 - [Github](https://github.com/TechArcanist/Jetson-Nano-Hacks/blob/main/Opening%20camera%20on%20same%20Jupyter%20Lab%20Interface/Instructions.md)
+### 5. Thumbs Up Down Classification
+- [Github](https://github.com/TechArcanist/Thumbs-up-down-Classification-using-Jetson-Nano)
 ## Getting Started
 
 To join me on this journey, explore the various projects. Here’s how to get started:
