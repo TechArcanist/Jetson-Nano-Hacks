@@ -22,6 +22,9 @@ As I explore the exciting world of Jetson Nano, I will be documenting and upload
 - [Github](https://github.com/TechArcanist/Thumbs-up-down-Classification-using-Jetson-Nano)
 ### 6. Jetson Nano Docker Container for Nvidia Deep Learning Course 
 - [Github](https://github.com/TechArcanist/Jetson-Nano-Docker-Container-for-Nvidia-Jetson-Nano-Deep-Learning-Course)
+### 7. How to Install Arduino IDE on Jetson Nano Ubuntu-OS 
+- [Github](https://github.com/TechArcanist/How-to-Install-Arduino-IDE-on-Jetson-Nano-Ubuntu-OS)
+
 ## Getting Started
 
 To join me on this journey, explore the various projects. Here’s how to get started:
